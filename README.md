@@ -1,1 +1,1 @@
-# ATM-Project
+# Academic project 
